@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'ProductSans';
+    src: url('./assets/fonts/ProductSans-Medium.ttf') format('ttf'),
+         url('./assets/fonts/ProductSans-MediumItalic.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'ProductSans';
+    src: url('./assets/fonts/ProductSans-Bold.ttf') format('ttf'),
+         url('./assets/fonts/ProductSans-BoldItalic.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'ProductSans';
+    src: url('./assets/fonts/ProductSans-Thin.ttf') format('ttf'),
+         url('./assets/fonts/ProductSans-ThinItalic.ttf') format('ttf');
+    font-weight: thin;
+    font-style: normal;
+  }
+
+  @font-face {
+     font-family: 'ProductSans';
+     src: url('./assets/fonts/ProductSans-Light.ttf') format('ttf'),
+          url('./assets/fonts/ProductSans-LightItalic.ttf') format('ttf');
+     font-weight: light;
+     font-style: normal;
+   }
